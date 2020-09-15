@@ -1,5 +1,5 @@
 # Social-Portfolio
-This is a responsive **social portfolio**. I used here-
+This is a **Responsive social portfolio**. I used here-
 - HTML5
 - CSS
 - Bootstrap4
