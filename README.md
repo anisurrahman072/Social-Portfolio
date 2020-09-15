@@ -5,4 +5,4 @@ This is a responsive **social portfolio**. I used here-
 - Bootstrap4
 - JS
 
-### Open ***index.html*** to show the page
+### Open ***`index.html`*** to show the page
